@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/coleifer/huey/commit/c5afa051a9663be479669e687c7460bdbbfd204d",
       "git:hexsha": "c5afa051a9663be479669e687c7460bdbbfd204d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:15:15.194998+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/huey/commit/3be590d24c02adef4ba3e5b2101d9908ba8e16ef",
